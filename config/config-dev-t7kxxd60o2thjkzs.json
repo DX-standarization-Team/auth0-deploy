@@ -1,0 +1,11 @@
+{
+  "AUTH0_DOMAIN": "dev-t7kxxd60o2thjkzs.us.auth0.com",
+  "AUTH0_CLIENT_ID": "q0rJb1JSeBifdfNgphjRwK6yrn0bcRQ7",
+  "AUTH0_CLIENT_SECRET": "U872A7hTBE-q6_RbFwP9nos0kX6-7mLrhbpmK9y1DJ2vtKtWbg19Ih1GR5KXU3gN",
+  "AUTH0_ALLOW_DELETE": false,
+  "AUTH0_KEYWORD_REPLACE_MAPPINGS": {
+    "ALLOWED_ORIGINS": ["http://localhost:3000"],
+    "APP_CALLBACKS": ["http://localhost:3000"],
+    "API_IDENTIFIER": "https://dev-fika-apigw.uc.gateway.dev/"
+  }
+}
